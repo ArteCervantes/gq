@@ -11,7 +11,7 @@
 		url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
 }
 
-img {
+.logo img {
    border: none;
 }
 
