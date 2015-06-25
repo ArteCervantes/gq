@@ -50,7 +50,8 @@ body {
 #logo {
 	position: relative;
 	margin:auto 0;
-	float: left
+	float: left;
+	border-image:none;
 }
 .conde-nast {
 	font-size: 13px;
@@ -315,8 +316,7 @@ ul.sitios li a.Glamour {
 	
 	/*form*/
 	
-	
-	<style>
+
 
 input {
 	width:30%;
@@ -372,7 +372,6 @@ textarea:focus {
 	border-color:#333;
 }
 
-</style>
-	
+
 
 
