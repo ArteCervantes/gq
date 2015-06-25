@@ -37,7 +37,7 @@ a:hover, a:focus {
 
 body {
 	border-image:none;
-	border-color:transparent;
+	border:0px;
 	}
 
 .header {
