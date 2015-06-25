@@ -5,7 +5,9 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-
+body {
+	border-image:none;
+}
 html, body, .container, .scroller {
 	margin: 0;
 	padding: 0;
