@@ -11,6 +11,10 @@
 		url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
 }
 
+img {
+   border: none;
+}
+
 a {
 	text-decoration: none;
 	outline: none;
