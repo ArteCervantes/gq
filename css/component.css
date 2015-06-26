@@ -5,9 +5,7 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-body {
-	border-image:none;
-}
+
 html, body, .container, .scroller {
 	margin: 0;
 	padding: 0;
@@ -52,7 +50,7 @@ html, body, .container, .scroller {
 	margin-top:2px; 
 	margin-bottom:2px;
 	font-family: 'Oxygen', sans-serif;
-	color: #A67B34;
+	color: #9F9F9F;
 	font-weight:300;
 	font-size:14px;
 	
@@ -62,7 +60,7 @@ html, body, .container, .scroller {
 	display: block;
 	width: 40px;
 	height: 2px;
-	background-color: #A67B34;
+	background-color: #9F9F9F;
 	border-radius: 1px;
 }
 .menu-trigger .bar:last-child {
@@ -187,7 +185,7 @@ html, body, .container, .scroller {
 	padding-right:1em;
 	padding-top:1em;
 	font-size:12px;
-	color:#71003B;
+	color:#757575;
 	letter-spacing:.1em;
 	font-weight:400;
 }
@@ -215,7 +213,7 @@ html, body, .container, .scroller {
 	margin: 0 auto;
 	padding:30px 0;
 	text-align:center;
-	color: rgba(166, 123, 52, 1);
+	color: rgba(238, 0, 0, 1);
 	font-family: 'Lato', sans-serif;
 	font-weight: 100;
 	font-size: 2em;
